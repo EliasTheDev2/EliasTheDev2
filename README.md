@@ -23,7 +23,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasTheDev2&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/kiddonotclone)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/kiddonotclone)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://eliasthedev-info.netlify.app/)
 
 ## 🏆 GitHub Trophies

@@ -8,11 +8,6 @@
 
 🌱 I'm currently seeking opportunities to gain hands-on experience in the tech industry, where I can contribute my skills while learning from experienced developers. My goal is to grow into a skilled professional who can create meaningful solutions through technology. 🎯
 
-## 🚀 Featured Projects
-- **Project 1**: Brief description of your awesome project
-- **Project 2**: Another cool project you've worked on
-- **Project 3**: Something else you're proud of
-
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

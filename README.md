@@ -19,7 +19,7 @@
 
 ## 🌐 Connect With Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/kiddonotclone)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://eliasthedev-info.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://eliasthedev.netlify.app/)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EliasTheDev2&theme=darkhub)

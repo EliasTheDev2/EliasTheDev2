@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-😀 Hi, I'm Elias! I'm a passionate 17-year-old developer from Algeria, North Africa, who loves to create and innovate. 💡 My journey in tech is driven by curiosity and the desire to make a positive impact through code. 
+😀 Hi, I'm Elias! I'm a passionate developer who loves to create and innovate. 💡 My journey in tech is driven by curiosity and the desire to make a positive impact through code. 
 
 🚀 As a self-taught full-stack developer, I'm constantly expanding my knowledge in web development, focusing on modern technologies and best practices. 💻 Despite taking an unconventional path by choosing to focus fully on my tech career, I'm committed to continuous learning and professional growth.
 
